@@ -184,8 +184,8 @@ Enterprise application developed during internship at **Ceylon Electricity Board
 
 # 🧪 Supporting Repositories
 
-* `farmlik`
-* `bushublk`
+* `Farmlink`
+* `BusHubLK`
 
 
 ---
