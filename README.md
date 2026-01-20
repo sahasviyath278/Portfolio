@@ -38,7 +38,7 @@ developers in a supportive, innovative environment to enhance my technical and p
 
 ## 🌾 Farmlink – Agricultural Digital Platform
 
-**Repository:** `farmlink-platform`
+**Repository:** `Farmlink`
 **Type:** Group Project | Full‑Stack Web Application
 
 ### 📌 Project Overview
@@ -78,7 +78,7 @@ Farmlink is a digital platform designed to connect **farmers, agricultural consu
 
 ## 🚌 BusHubLK – Public Transport Management System
 
-**Repository:** `bushublk`
+**Repository:** `BusHubLK`
 **Type:** Group Project | Enterprise‑Style System
 
 ### 📌 Project Overview
@@ -117,7 +117,6 @@ BusHubLK is a centralized management system built to support **public transport 
 
 ## ⚡ EV Charging Management System (OCPP 1.6)
 
-**Repository:** `ocpp-ev-backend`
 
 ### 📌 Project Overview
 
@@ -154,7 +153,6 @@ Backend system implementing **OCPP 1.6 protocol** to manage EV charging stations
 
 ## 🔌 Bulk Electricity Connection Management System
 
-**Repository:** `ceb-bulk-connections`
 
 ### 📌 Project Overview
 
